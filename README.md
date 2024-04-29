@@ -34,7 +34,7 @@ Make Informed Decisions: Based on the recommendations and additional research, u
 
 Installation and Setup
 
-Clone the repository: git clone https://github.com/your-username/loan-recommendation-agent.git
+Clone the repository: git clone (https://github.com/Sandysniper/Loan-recommedation-Ai-Agent).git
 Install dependencies: Refer to the requirements.txt file for the necessary libraries.
 Set up API keys: Configure any required API keys for accessing data sources or LLMs.
 Run the application: Follow the instructions in the project documentation to run the Streamlit app.
