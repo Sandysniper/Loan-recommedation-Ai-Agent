@@ -3,4 +3,4 @@ crewai
 langchain_groq
 langchain
 chromadb
-pysqlite3
+pysqlite3-binary
