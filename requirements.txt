@@ -2,3 +2,5 @@ streamlit
 crewai
 langchain_groq
 langchain
+chromadb
+pysqlite3
